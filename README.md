@@ -2,7 +2,7 @@
 
 
 #### Demo
-https://jamesmoonlee.github.io/vietnam-visa-on-arrival
+https://jamesmoonlee.github.io/bw2color/
 
 #### Related Document (N/A)
 
